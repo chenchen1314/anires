@@ -25,7 +25,8 @@ export default {
       fullStyle: [
         `/*
 * Inspired by http://strml.net/
-* 源码地址 https://gitee.com/zhousiwei/anires
+* 源码地址 https://github.com/chenchen1314/resumeanimate.git
+* 欢迎clone ，请标明出处！！！！
 * 大家好，我是一陈不染-Mr.Chen。
 * 我来写一份简历！
 */
@@ -148,7 +149,7 @@ html{
 
 开源项目
 ----
-1. [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://gitee.com/zhousiwei/bootplus)
+1. [基于NodeJs+Vue-Cli3.0+And-Design-vue的小区管理系统](https://github.com/chenchen1314/CommunitySystem.git)
 
 
 
@@ -159,9 +160,9 @@ html{
 
 [归档文章]()
 ----
-1. [Java](https://zhousiwei.gitee.io/tags/Java/)
-2. [Linux](https://zhousiwei.gitee.io/tags/Linux/)
-3. [MySQL](https://zhousiwei.gitee.io/tags/MySQL)
+1. [Java](https://github.com/chenchen1314/tags/Java/)
+2. [Linux](https://github.com/chenchen1314/tags/Linux/)
+3. [MySQL](https://github.com/chenchen1314/tags/MySQL)
 
 
 联系我
@@ -169,7 +170,7 @@ html{
 * 联系QQ：**949548472** | 微信：**18830999150**
 * 主要涉及技术：**前端开发**、**UI设计**、**公众号开发**、**Spring—Boot开发**、**Linux**
 
-> 如果你喜欢这个效果，Fork [我的项目]()，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/chenchen1314/resumeanimate.git)，打造你自己的简历！
 `
     };
   },

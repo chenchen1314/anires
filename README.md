@@ -13,7 +13,7 @@
 
 ## 使用方法
 ```bash
-git clone https://gitee.com/zhousiwei/anires.git
+git clone https://github.com/chenchen1314/resumeanimate.git
 cd anires
 npm install
 npm run dev
@@ -31,18 +31,18 @@ git commit -m "update"
 git push
 ```
 3. 开启 **GitHub Pages** 功能，把生成的目标文件`public/*`放在你的web服务器上。
-
-4. 访问地址：[https://your-github-username.github.io/anires/public](https://zhousiwei.gitee.io/anires/index.html "https://zhousiwei.gitee.io/anires/index.html")
+5. 如果您的项目上传到github上之后不能正常运行请看这篇blog可能会对你有帮助[点击这里](https://blog.csdn.net/baidu_25464429/article/details/80805237 "https://blog.csdn.net/baidu_25464429/article/details/80805237")
+4. 访问地址：[https://your-github-username.github.io/anires/public](https://chenchen1314.github.io/resumeanimate/ "https://chenchen1314.github.io/resumeanimate/")
 
 # 关于我
-- [个人博客](https://zhousiwei.gitee.io/)
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [GitHub](https://github.com/JoeyBling)
-- [码云](https://gitee.com/zhousiwei)
-- [简书](https://www.jianshu.com/u/02cbf31a043a)
-- [CSDN](https://blog.csdn.net/qq_30930805)
-- [知乎](https://www.zhihu.com/people/joeybling)
-- [微博](http://weibo.com/jayinfo)
+- [个人博客](https://chenchen1314.github.io/)
+- [技术笔记]()
+- [GitHub](https://github.com/chenchen1314)
+- [码云]()
+- [简书]()
+- [CSDN](https://blog.csdn.net/h949548472)
+- [知乎](https://www.zhihu.com/people/chenchen1314)
+- [微博](//weibo.com/chblog1314)
 - **主要涉及技术：`Java后端开发`、`聚合支付`、`公众号开发`、`开源爱好者`、`Linux`**
 
 ## License

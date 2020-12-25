@@ -1,0 +1,58 @@
+
+#app[data-v-3ec6f786] {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html[data-v-3ec6f786] {
+  min-height: 100vh;
+}
+*[data-v-3ec6f786] {
+  box-sizing: border-box;
+}
+
+pre[data-v-a68fc34e] {
+}
+@media (max-width: 500px) {
+pre[data-v-a68fc34e] {
+}
+}
+.code[data-v-a68fc34e] {
+  display: none;
+}
+
+@media (max-width: 500px) {
+.resumeEditor[data-v-66fe14a2] {
+}
+}
+.htmlMode[data-v-66fe14a2] {
+  animation: flip 2s;
+}
+@keyframes flip {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+
+#app[data-v-d438b894] {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  position: relative;
+}
+html[data-v-d438b894] {
+  min-height: 100vh;
+}
+*[data-v-d438b894] {
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=app.c826c07db056cd915fcf463eeb495f85.css.map*/

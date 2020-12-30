@@ -39,7 +39,7 @@ git push
 - [技术笔记]()
 - [GitHub](https://github.com/chenchen1314)
 - [码云]()
-- [简书]()
+- [简书](https://www.jianshu.com/u/6883ab64ef22)
 - [CSDN](https://blog.csdn.net/h949548472)
 - [知乎](https://www.zhihu.com/people/chenchen1314)
 - [微博](//weibo.com/chblog1314)
